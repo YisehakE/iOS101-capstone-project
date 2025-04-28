@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# Service/Hustle Marketplace MVP
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Original App Design Project - README Template
 
 ### Description
 
-[Description of your app]
+
 
 ### App Evaluation
 
@@ -33,12 +33,16 @@ Original App Design Project - README Template
 **Required Must-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* User can view a dashboard/homepage of services uploaded from servicers.
+* Users can view their profile as a servicer or customer.
+* Users can upload a portfolio of media for their service.
+* Users can search for a specific service on a search view.
 
 **Optional Nice-to-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* User can make a transaction on a pay wall for a service
+* User can filter for services on the search screen.
 
 ### 2. Screen Archetypes
 
@@ -49,6 +53,9 @@ list second screen here]
 * [list associated required story here]
 * ...
 
+* NOT COMPLETED (YET)
+
+
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -56,6 +63,9 @@ list second screen here]
 * [fill out your first tab]
 * [fill out your second tab]
 * [fill out your third tab]
+
+* NOT COMPLETED (YET)
+
 
 **Flow Navigation** (Screen to Screen)
 
@@ -70,21 +80,26 @@ list second screen here]
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+* NOT COMPLETED (YET)
 
 ### [BONUS] Digital Wireframes & Mockups
+* NOT COMPLETED (YET)
 
 ### [BONUS] Interactive Prototype
+* NOT COMPLETED (YET)
 
 ## Schema 
-
 [This section will be completed in Unit 9]
+* NOT COMPLETED (YET)
 
 ### Models
-
 [Add table of models]
+* NOT COMPLETED (YET)
 
 ### Networking
 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+* NOT COMPLETED (YET)
